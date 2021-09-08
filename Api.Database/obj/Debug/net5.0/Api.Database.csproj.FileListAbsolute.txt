@@ -1,0 +1,12 @@
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\Api.Database.deps.json
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\Api.Database.dll
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\ref\Api.Database.dll
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\Api.Database.pdb
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.csproj.AssemblyReference.cache
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.AssemblyInfoInputs.cache
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.AssemblyInfo.cs
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.csproj.CoreCompileInputs.cache
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.dll
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\ref\Api.Database.dll
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\obj\Debug\net5.0\Api.Database.pdb

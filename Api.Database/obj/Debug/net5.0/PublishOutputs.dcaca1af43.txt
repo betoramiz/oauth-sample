@@ -1,0 +1,3 @@
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\publish\Api.Database.dll
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\publish\Api.Database.deps.json
+C:\code\Developers.net\SecureApiClientCredentials\OauthApi\Api.Database\bin\Debug\net5.0\publish\Api.Database.pdb
